@@ -1,0 +1,21 @@
+﻿Order_ID,Order_Date,Region,Category,Product,Quantity,Unit_Price,Sales
+ORD001,5/01/2026,Sydney,Electronics,Wireless Mouse,3,25,75
+ORD002,8/01/2026,Melbourne,Electronics,Keyboard,2,45,90
+ORD003,12/01/2026,Brisbane,Office Supplies,Notebook,10,5,50
+ORD004,18/01/2026,Sydney,Electronics,Monitor,2,220,440
+ORD005,25/01/2026,Perth,Furniture,Office Chair,2,180,360
+ORD006,3/02/2026,Melbourne,Furniture,Desk,1,350,350
+ORD007,8/02/2026,Sydney,Office Supplies,Printer Paper,8,12,96
+ORD008,14/02/2026,Brisbane,Electronics,USB Hub,4,30,120
+ORD009,20/02/2026,Perth,Electronics,Webcam,3,80,240
+ORD010,25/02/2026,Sydney,Furniture,Office Chair,1,180,180
+ORD011,2/03/2026,Melbourne,Electronics,Monitor,2,220,440
+ORD012,7/03/2026,Brisbane,Office Supplies,Notebook,15,5,75
+ORD013,12/03/2026,Sydney,Electronics,Keyboard,3,45,135
+ORD014,18/03/2026,Perth,Furniture,Desk,2,350,700
+ORD015,23/03/2026,Melbourne,Office Supplies,Printer Paper,10,12,120
+ORD016,4/04/2026,Sydney,Electronics,Webcam,4,80,320
+ORD017,9/04/2026,Brisbane,Furniture,Office Chair,2,180,360
+ORD018,15/04/2026,Melbourne,Electronics,Wireless Mouse,5,25,125
+ORD019,21/04/2026,Perth,Office Supplies,Notebook,20,5,100
+ORD020,27/04/2026,Sydney,Furniture,Desk,1,350,350
